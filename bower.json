@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-leafletjs",
+  "homepage": "https://github.com/ch3k0/ejercicio-leafletjs",
+  "authors": [
+    "ch3k0 <gufin80@gmail.com>"
+  ],
+  "description": "desarrollo del ejemplo leafletjs",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.1.0"
+  }
+}
